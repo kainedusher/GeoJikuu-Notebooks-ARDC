@@ -5,6 +5,7 @@ This repo, commissioned by [Australian Research Data Commons (ARDC)](https://ard
  - GeoJikuu Hot Spot Analysis Tutorial Part 2: How to Perform Spacetime Hot Spot Analysis with the Getis-Ord Gi* Technique (v1.0).
 
 These notebooks can either be cloned and run on your local machine or accessed via Nectar's BinderHub Service (see badge below).
+
 [![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/kainedusher/GeoJikuu-Notebooks-ARDC/HEAD)
 
 

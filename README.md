@@ -4,4 +4,4 @@ This repo contains tutorial notebooks on how to use GeoJikuu to perform various 
 
 These notebooks can either be cloned and run on your local machine or accessed via Nectar's BinderHub Service.
 
-[![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/kainedusher/GeoJikuu-Notebooks-ARDC/tree/master/HEAD)
+[![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/kainedusher/GeoJikuu-Notebooks-ARDC/HEAD)
